@@ -1,2 +1,3 @@
 Hello it's me ...
 Feature added by branch A
+Feature added by branch B
